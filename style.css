@@ -16,7 +16,7 @@
 --texto: "Lato", sans-sherif;
 }
 body{
-    background-color: var(--cambridge-blue);
+    background-color: var(--mint-green);
     font-family: var(--texto);
     margin: 0;
     display: flex;
@@ -40,5 +40,7 @@ button:hover{
     border: 4px groove;
 }
 button:active{
-    border: 3.8px inset;
+    border: 3.9px inset;
+    box-shadow: none;
+
 }
