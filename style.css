@@ -44,3 +44,10 @@ button:active{
     box-shadow: none;
 
 }
+
+.passo{
+    display: none;
+}
+.passo.ativo{
+    display: block;
+}
