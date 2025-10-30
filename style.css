@@ -45,9 +45,9 @@ button:active{
 
 }
 
-.passo{
+.step{
     display: none;
 }
-.passo.ativo{
+.step.ativo{
     display: block;
 }
