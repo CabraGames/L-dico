@@ -1,7 +1,4 @@
 const nxt = document.querySelectorAll('.btn-nxt');
-const playBtn = document.getElementById('btn-play-5m')
-const audio = document.getElementById('5m')
-
 
 nxt.forEach(button => {
     button.addEventListener('click', function(){
@@ -13,6 +10,3 @@ nxt.forEach(button => {
     
     })
 })
-
-
-
